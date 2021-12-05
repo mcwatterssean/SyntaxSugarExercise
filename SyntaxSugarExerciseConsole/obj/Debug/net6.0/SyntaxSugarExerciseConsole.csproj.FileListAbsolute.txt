@@ -1,0 +1,15 @@
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\bin\Debug\net6.0\SyntaxSugarExerciseConsole.exe
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\bin\Debug\net6.0\SyntaxSugarExerciseConsole.deps.json
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\bin\Debug\net6.0\SyntaxSugarExerciseConsole.runtimeconfig.json
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\bin\Debug\net6.0\SyntaxSugarExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\bin\Debug\net6.0\ref\SyntaxSugarExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\bin\Debug\net6.0\SyntaxSugarExerciseConsole.pdb
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\SyntaxSugarExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\SyntaxSugarExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\SyntaxSugarExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\SyntaxSugarExerciseConsole.AssemblyInfo.cs
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\SyntaxSugarExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\SyntaxSugarExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\ref\SyntaxSugarExerciseConsole.dll
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\SyntaxSugarExerciseConsole.pdb
+C:\Users\mcwat\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExerciseConsole\obj\Debug\net6.0\SyntaxSugarExerciseConsole.genruntimeconfig.cache
